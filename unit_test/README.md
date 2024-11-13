@@ -38,7 +38,7 @@ This project demonstrates how to use **unit testing** in Python using **Pytest**
     pytest
     ```
 ## Presentation
-For a detailed explanation and code walkthrough, check out the Figma presentation: [Unit Testing Presentation](https://www.figma.com/deck/4haSXFK7UjzTIjOexeEBdt/unit_test?node-id=16-311&t=9JhOHowcyQHOwgLw-1)
+For a detailed explanation and code walkthrough, check out the Figma presentation: [Unit Testing Presentation](https://www.figma.com/deck/4haSXFK7UjzTIjOexeEBdt/unit_test?node-id=1-51&node-type=slide&t=qF9LnQnua7GaTpaG-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## Contact
 - Author: Vyshnav K S
